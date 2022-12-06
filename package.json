@@ -9,7 +9,7 @@
   "author": "Fady Makram",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.3",
+    "express": "^4.18.2",
     "formidable": "^1.0.17"
   }
 }
